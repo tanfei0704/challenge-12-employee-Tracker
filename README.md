@@ -3,8 +3,8 @@ A command-line need to manage a company's employee database, using Node.js, Inqu
 
 ## Table of Contents
 * [Installation](#installation)
-* [UserStory](#user story)
-* [Acceptance](#accpetance creteria)
+* [UserStory](#userstory)
+* [Acceptance](#acceptance)
 * [License](#license)
 * [Demo](#demo)
 
@@ -18,13 +18,13 @@ A command-line need to manage a company's employee database, using Node.js, Inqu
 5. The command prompt will begin on your terminal
 
 ## User Story
-```
+
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 
 ## Acceptance Criteria
-```
+
 GIVEN a command-line application that accepts user input
 WHEN I start the application
 THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
@@ -52,4 +52,3 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ![demo](./Assets/Screenshot%202023-10-23%20at%204.14.33 PM.png)
 
-![demo](./Assets/Untitled_%20Oct%2023,%202023%204_22%20PM.gif)
